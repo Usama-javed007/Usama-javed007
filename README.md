@@ -2,59 +2,53 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=Usama%20Javed&fontSize=50&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Senior%20Penetration%20Tester%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Security%20Researcher&descAlignY=55&descColor=ffffff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Senior+Penetration+Tester+%F0%9F%94%93;Bug+Bounty+Hunter+%F0%9F%90%9B;Red+Teamer+%F0%9F%8E%AF;Web+%7C+API+%7C+Cloud+%7C+Mobile+Security+%F0%9F%9B%A1%EF%B8%8F;Breaking+Things+Ethically+Since+2021+%E2%9C%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Senior+Penetration+Tester+%F0%9F%94%93;Bug+Bounty+Hunter+%F0%9F%90%9B;Red+Teamer+%F0%9F%8E%AF;Web+%7C+Mobile+%7C+Network+%7C+Cloud+Security;Breaking+Things+Ethically+Since+2021+%E2%9C%85)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👤 About Me
+## 👾 About Me
 
-I'm a **Senior Penetration Tester** and part-time **Bug Bounty Hunter** with over **5 years of experience** in Offensive Security.
+> *"The quieter you become, the more you are able to hear." — Kali Linux*
 
-I specialise in finding complex vulnerabilities across **Web, Network, Mobile, API, Cloud, and Enterprise** infrastructures, and turning those findings into real, actionable improvements. I also work closely with development teams throughout the **SDLC**, making sure security stays part of every stage — not an afterthought.
+I'm a **Senior Penetration Tester** and part-time **Bug Bounty Hunter** with over **5 years of hands-on experience** in offensive security.
 
-<div align="center">
+I think like an attacker — finding what defenders miss across **Web, Mobile, Network, Cloud, and Active Directory** environments. From deep manual testing to red team operations, I turn vulnerabilities into hardened defences and help organisations understand their real attack surface before the real threat actors do.
 
 ### 🎯 Core Focus Areas
 
-| Domain | Expertise |
-|---|---|
-| 🌐 Web, Mobile & API Pentesting | ⭐⭐⭐⭐⭐ |
-| 🏗️ Network & Infrastructure Security | ⭐⭐⭐⭐⭐ |
-| ☁️ Cloud & Container Security | ⭐⭐⭐⭐⭐ |
-| 🖥️ Desktop Application & Red Team Ops | ⭐⭐⭐⭐⭐ |
-| 🔄 Secure SDLC Integration & Review | ⭐⭐⭐⭐⭐ |
-
-</div>
+- 🌐 **Web Application** Pentesting
+- 📱 **Mobile Application** Pentesting
+- 🏗️ **Network & Infrastructure** Security
+- ☁️ **Cloud & Container** Security
+- 🎯 **Red Teaming** & Active Directory Attacks
 
 ---
 
 ## 🎓 Certifications
 
 ### 🔴 Red Team
-- 🏅 [CRTP — Certified Red Team Professional](https://www.credly.com/badges/c7a1296f-db38-4fb8-bbdb-9cfa0c5422af)
-- 🏅 [CRTA — Certified Red Team Analyst](https://labs.cyberwarfare.live/credential/achievement/68a40b43bf373ee66a203766)
+- [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/c7a1296f-db38-4fb8-bbdb-9cfa0c5422af) &nbsp;**CRTP** — Certified Red Team Professional
+- [![CyberWarfare](https://img.shields.io/badge/CyberWarfare-8B0000?style=flat-square&logoColor=white)](https://labs.cyberwarfare.live/credential/achievement/68a40b43bf373ee66a203766) &nbsp;**CRTA** — Certified Red Team Analyst
 
 ### 🌐 Web Application Security
-- 🏅 [eWPTX — Web App Pentester eXtreme](https://certs.ine.com/40dfb31e-5543-40a9-bf60-1d41630245e7)
+- [![INE](https://img.shields.io/badge/INE-00C4CC?style=flat-square&logoColor=white)](https://certs.ine.com/40dfb31e-5543-40a9-bf60-1d41630245e7) &nbsp;**eWPTX** — Web App Pentester eXtreme
 
 ### 🔐 Foundational
-- 🏅 [CompTIA Security+](https://www.credly.com/badges/323db812-2529-4ab8-b1ec-f62f8cde578b)
+- [![CompTIA](https://img.shields.io/badge/CompTIA-C8202F?style=flat-square&logo=comptia&logoColor=white)](https://www.credly.com/badges/323db812-2529-4ab8-b1ec-f62f8cde578b) &nbsp;**Security+**
 
 ### 🔌 API Security — APIsec University
-- 🏅 [API Penetration Testing](https://www.credly.com/badges/894bee4a-e67a-46a8-8eeb-1bd042d3078d)
-- 🏅 [Securing API Servers](https://www.credly.com/badges/69c59b9a-fdcd-4374-9a93-de7a49149798)
-- 🏅 [OWASP API Top 10](https://www.credly.com/badges/57aedbab-26d4-40df-8c2e-4a2b04a95944)
-- 🏅 [API Security Fundamentals](https://www.credly.com/badges/ea819131-fc39-4585-8e68-8eb9b6f27fb5)
-- 🏅 [API Security for Connected Cars](https://www.credential.net/e50c4e0b-075e-41bb-8f9c-022e8def924e)
-- 🏅 [API Documentation Best Practices](https://www.credly.com/badges/ea819131-fc39-4585-8e68-8eb9b6f27fb5)
+- [![APIsec](https://img.shields.io/badge/APIsec_University-00ADD8?style=flat-square&logoColor=white)](https://www.credly.com/badges/894bee4a-e67a-46a8-8eeb-1bd042d3078d) &nbsp;API Penetration Testing
+- [![APIsec](https://img.shields.io/badge/APIsec_University-00ADD8?style=flat-square&logoColor=white)](https://www.credly.com/badges/69c59b9a-fdcd-4374-9a93-de7a49149798) &nbsp;Securing API Servers
+- [![APIsec](https://img.shields.io/badge/APIsec_University-00ADD8?style=flat-square&logoColor=white)](https://www.credly.com/badges/57aedbab-26d4-40df-8c2e-4a2b04a95944) &nbsp;OWASP API Top 10
+- [![APIsec](https://img.shields.io/badge/APIsec_University-00ADD8?style=flat-square&logoColor=white)](https://www.credly.com/badges/ea819131-fc39-4585-8e68-8eb9b6f27fb5) &nbsp;API Security Fundamentals
+- [![APIsec](https://img.shields.io/badge/APIsec_University-00ADD8?style=flat-square&logoColor=white)](https://www.credential.net/e50c4e0b-075e-41bb-8f9c-022e8def924e) &nbsp;API Security for Connected Cars
+- [![APIsec](https://img.shields.io/badge/APIsec_University-00ADD8?style=flat-square&logoColor=white)](https://www.credly.com/badges/ea819131-fc39-4585-8e68-8eb9b6f27fb5) &nbsp;API Documentation Best Practices
 
 ---
 
 ## 💼 Work Experience
-
-<div align="center">
 
 ```
 🏢 COMMTEL                                           Jun 2024 – Present
@@ -80,57 +74,8 @@ I specialise in finding complex vulnerabilities across **Web, Network, Mobile, A
    Part-time · Public & Private Programmes                (11 months)
 ─────────────────────────────────────────────────────────────────────
   Responsible disclosure across Web, Android/iOS, Network, Cloud &
-  Active Directory. Reported on platforms including Bugcrowd,
-  HackerOne, and Intigriti.
+  Active Directory. Reported on Bugcrowd, HackerOne, and Intigriti.
 ```
-
-</div>
-
----
-
-## 🛠️ Arsenal
-
-<div align="center">
-
-### 🔴 Offensive Security
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)
-![Nuclei](https://img.shields.io/badge/Nuclei-00ADD8?style=for-the-badge&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-black?style=for-the-badge&logoColor=white)
-![Subfinder](https://img.shields.io/badge/Subfinder-6935D3?style=for-the-badge&logoColor=white)
-![Amass](https://img.shields.io/badge/Amass-00599C?style=for-the-badge&logoColor=white)
-
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-### 🖥️ Platforms & OS
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Usama-javed007&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usama-javed007&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Usama-javed007&theme=matrix&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6633&currStreakLabel=00FF41)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -149,14 +94,9 @@ I specialise in finding complex vulnerabilities across **Web, Network, Mobile, A
 
 ## 📫 Contact
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-javedu2000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javedu2000@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B923442462451-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923442462451)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usama%20Javed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usamajaved2000/)
-[![GitHub](https://img.shields.io/badge/GitHub-Usama--javed007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Usama-javed007)
-
-</div>
+- 📧 [javedu2000@gmail.com](mailto:javedu2000@gmail.com)
+- 📞 [+92 344 2462451](tel:+923442462451)
+- 💼 [LinkedIn — Usama Javed](https://www.linkedin.com/in/usamajaved2000/)
 
 ---
 
@@ -165,7 +105,5 @@ I specialise in finding complex vulnerabilities across **Web, Network, Mobile, A
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer" width="100%"/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Usama-javed007&color=00ff41&style=flat-square&label=Profile+Views)
-
-*"The quieter you become, the more you are able to hear." — Kali Linux*
 
 </div>
