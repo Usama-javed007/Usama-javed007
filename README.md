@@ -18,13 +18,13 @@ I specialise in finding complex vulnerabilities across **Web, Network, Mobile, A
 
 ### 🎯 Core Focus Areas
 
-| Domain | Expertise |
-|---|---|
-| 🌐 Web, Mobile & API Pentesting | ⭐⭐⭐⭐⭐ |
-| 🏗️ Network & Infrastructure Security | ⭐⭐⭐⭐⭐ |
-| ☁️ Cloud & Container Security | ⭐⭐⭐⭐⭐ |
-| 🖥️ Desktop Application & Red Team Ops | ⭐⭐⭐⭐⭐ |
-| 🔄 Secure SDLC Integration & Review | ⭐⭐⭐⭐⭐ |
+| Domain |
+|---|
+| 🌐 Web, Mobile & API Pentesting | 
+| 🏗️ Network & Infrastructure Security | 
+| ☁️ Cloud & Container Security | 
+| 🖥️ Desktop Application & Red Team Ops | 
+| 🔄 Secure SDLC Integration & Review | 
 
 </div>
 
