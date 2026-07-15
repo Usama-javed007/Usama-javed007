@@ -18,13 +18,13 @@ I specialise in finding complex vulnerabilities across **Web, Network, Mobile, A
 
 ### 🎯 Core Focus Areas
 
-| Domain |
-|---|
-| 🌐 Web, Mobile & API Pentesting | 
-| 🏗️ Network & Infrastructure Security | 
-| ☁️ Cloud & Container Security | 
-| 🖥️ Desktop Application & Red Team Ops | 
-| 🔄 Secure SDLC Integration & Review | 
+| Domain | Expertise |
+|---|---|
+| 🌐 Web, Mobile & API Pentesting | ⭐⭐⭐⭐⭐ |
+| 🏗️ Network & Infrastructure Security | ⭐⭐⭐⭐⭐ |
+| ☁️ Cloud & Container Security | ⭐⭐⭐⭐⭐ |
+| 🖥️ Desktop Application & Red Team Ops | ⭐⭐⭐⭐⭐ |
+| 🔄 Secure SDLC Integration & Review | ⭐⭐⭐⭐⭐ |
 
 </div>
 
@@ -32,27 +32,23 @@ I specialise in finding complex vulnerabilities across **Web, Network, Mobile, A
 
 ## 🎓 Certifications
 
-<div align="center">
-
 ### 🔴 Red Team
-[![CRTP](https://img.shields.io/badge/CRTP-Certified%20Red%20Team%20Professional-CC0000?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/c7a1296f-db38-4fb8-bbdb-9cfa0c5422af)
-[![CRTA](https://img.shields.io/badge/CRTA-Certified%20Red%20Team%20Analyst-8B0000?style=for-the-badge&logoColor=white)](https://labs.cyberwarfare.live/credential/achievement/68a40b43bf373ee66a203766)
+- 🏅 [CRTP — Certified Red Team Professional](https://www.credly.com/badges/c7a1296f-db38-4fb8-bbdb-9cfa0c5422af)
+- 🏅 [CRTA — Certified Red Team Analyst](https://labs.cyberwarfare.live/credential/achievement/68a40b43bf373ee66a203766)
 
 ### 🌐 Web Application Security
-[![eWPTX](https://img.shields.io/badge/eWPTX-Web%20App%20Pentester%20eXtreme-8A2BE2?style=for-the-badge&logoColor=white)](https://certs.ine.com/40dfb31e-5543-40a9-bf60-1d41630245e7)
+- 🏅 [eWPTX — Web App Pentester eXtreme](https://certs.ine.com/40dfb31e-5543-40a9-bf60-1d41630245e7)
 
 ### 🔐 Foundational
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/323db812-2529-4ab8-b1ec-f62f8cde578b)
+- 🏅 [CompTIA Security+](https://www.credly.com/badges/323db812-2529-4ab8-b1ec-f62f8cde578b)
 
 ### 🔌 API Security — APIsec University
-[![API Pentest](https://img.shields.io/badge/APIsec-API%20Penetration%20Testing-00ADD8?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/894bee4a-e67a-46a8-8eeb-1bd042d3078d)
-[![API Servers](https://img.shields.io/badge/APIsec-Securing%20API%20Servers-00ADD8?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/69c59b9a-fdcd-4374-9a93-de7a49149798)
-[![OWASP API](https://img.shields.io/badge/APIsec-OWASP%20API%20Top%2010-00ADD8?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/57aedbab-26d4-40df-8c2e-4a2b04a95944)
-[![API Fundamentals](https://img.shields.io/badge/APIsec-API%20Security%20Fundamentals-00ADD8?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/ea819131-fc39-4585-8e68-8eb9b6f27fb5)
-[![API Cars](https://img.shields.io/badge/APIsec-API%20Security%20for%20Connected%20Cars-00ADD8?style=for-the-badge&logoColor=white)](https://www.credential.net/e50c4e0b-075e-41bb-8f9c-022e8def924e)
-[![API Docs](https://img.shields.io/badge/APIsec-API%20Documentation%20Best%20Practices-00ADD8?style=for-the-badge&logoColor=white)](https://www.credly.com/badges/ea819131-fc39-4585-8e68-8eb9b6f27fb5)
-
-</div>
+- 🏅 [API Penetration Testing](https://www.credly.com/badges/894bee4a-e67a-46a8-8eeb-1bd042d3078d)
+- 🏅 [Securing API Servers](https://www.credly.com/badges/69c59b9a-fdcd-4374-9a93-de7a49149798)
+- 🏅 [OWASP API Top 10](https://www.credly.com/badges/57aedbab-26d4-40df-8c2e-4a2b04a95944)
+- 🏅 [API Security Fundamentals](https://www.credly.com/badges/ea819131-fc39-4585-8e68-8eb9b6f27fb5)
+- 🏅 [API Security for Connected Cars](https://www.credential.net/e50c4e0b-075e-41bb-8f9c-022e8def924e)
+- 🏅 [API Documentation Best Practices](https://www.credly.com/badges/ea819131-fc39-4585-8e68-8eb9b6f27fb5)
 
 ---
 
